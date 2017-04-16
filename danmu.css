@@ -1,0 +1,27 @@
+﻿.danmu .danmu-screen {
+	border:1px solid rgb(192,192,192);
+	margin:30px auto;
+	width:800px;
+	height:400px;
+	position:relative;
+}
+.danmu .danmu-input,.danmu-control {
+	text-align:center;
+}
+.danmu-input .danmu-input-box {
+	border:1px solid rgb(192,192,192);
+	width:400px;
+	height:30px;
+}
+.danmu-control .danmu-sub,.danmu-cls {
+	margin:30px auto;
+	width:100px;
+	height:30px;
+	color:green;
+	border:1px solid rgb(0,255,0);
+}
+.danmu-control .danmu-cls {
+	margin-left:60px;
+	color:red;
+	border:1px solid rgb(255,0,0);
+}
